@@ -1,0 +1,51 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "loginPageHeadline": "Deliver Favourite Food",
+    "@loginPageHeadline": {
+        "description": "Headline shown on the Login Page"
+    },
+    "login": "Login",
+    "@login": {
+        "description": "Login Text"
+    },
+    "forgotPassword": "Forgot Password?",
+    "@forgotPassword": {
+        "description": "Forgot Password Text"
+    },
+    "or": "Or",
+    "@or": {
+        "description": "Or Text"
+    },
+    "dontHaveAnAccount": "Don't have an account?",
+    "@dontHaveAnAccount": {
+        "description": "Don't have an account Text"
+    },
+    "register": "Register",
+    "@register": {
+        "description": "Register Text"
+    },
+    "signup": "Signup",
+    "@signup": {
+        "description": "Signup Text"
+    },
+    "createAccount": "Create Account",
+    "@createAccount": {
+        "description": "Create Account Text"
+    },
+    "alreadyHaveAnAccount": "Already have an account?",
+    "@alreadyHaveAnAccount": {
+        "description": "Already have an account Text"
+    },
+    "categories": "Categories",
+    "@categories": {
+        "description": "Categories Text"
+    },
+    "fastestNearYou": "Fastest near you",
+    "@fastestNearYou":{
+        "description": "fastestNearYou Text"
+    }
+}
